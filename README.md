@@ -1,5 +1,5 @@
 # Grocery-List
-##Steps to run the code
+## Steps to run the code
 1. Clone the repository
 2. Navigate to the Grocery_List folder
    
