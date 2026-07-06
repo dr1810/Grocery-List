@@ -1,0 +1,4 @@
+Apple|75.0|3
+Banana|70.0|2
+Orange|216.0|6
+Mango|96.0|3
